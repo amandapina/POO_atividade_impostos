@@ -3,7 +3,7 @@ public class Main {
     public static void main(String[] args) {
 
         //nesse caso, não usaremos uma interface
-        //estamos testando com um produto de 1000
+        //estamos testando com um produto de 50
         Operacao conta = new Operacao("produto", 50);
 
 
